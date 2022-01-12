@@ -1,0 +1,3 @@
+VLOOKUP + MATCH
+
+=VLOOKUP($B6, $K$5:$N$8, MATCH(C$5, $K$5:$N$5, 0), FALSE)
